@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mohammedKeshta (Mohammed H. Keshta)
 - 👀 I’m interested in programming in General
-- 🌱 I’m currently learning HTML/CSS/Javascript
+- 🌱 I’m currently learning HTML/CSS/Javascript/React/Redux...
 - 💞️ I’m looking to collaborate on open source programming
 - 📫 How to reach me: mohammed.hatem.keshta@gmail.com
 
